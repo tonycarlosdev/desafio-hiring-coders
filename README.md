@@ -1,0 +1,1 @@
+Projeto desafio Hiring Coders. Landing page de uma promoção com cadastro do e-mail do cliente no local storage.
